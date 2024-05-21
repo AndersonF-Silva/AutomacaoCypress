@@ -1,0 +1,11 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto Testes E2E no Mark L",
+  "main": "index.js",
+  "author": "Anderson Fernando Da Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
